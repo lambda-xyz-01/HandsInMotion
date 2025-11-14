@@ -1,5 +1,5 @@
 # AtHands
-The official implmentation of the paper: **ATHands: Anatomy-Aware Diffusion Model for Text-Driven Hand Motion Generation**
+The official implmentation of the paper: **HandsInMotion: Anatomically‑Guided Diffusion for Text‑ and Body‑Conditioned 3D Hand Motion**
 
 ![](./assets/method.jpg)
 
