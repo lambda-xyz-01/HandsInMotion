@@ -1,4 +1,4 @@
-# AtHands
+# HandsInMotion
 The official implmentation of the paper: **HandsInMotion: Anatomically‑Guided Diffusion for Text‑ and Body‑Conditioned 3D Hand Motion**
 
 ![](./assets/method.jpg)
